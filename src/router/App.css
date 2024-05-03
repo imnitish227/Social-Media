@@ -1,0 +1,12 @@
+.parent {
+  display: flex;
+}
+.child {
+  width: 100%;
+}
+.postList {
+  display: flex;
+  margin-top: 10px;
+  flex-wrap: wrap;
+  
+}
